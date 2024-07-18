@@ -1,0 +1,6 @@
+INSERT INTO Product (id, name, description, brand, price, category, date, available, quantity) VALUES
+                                                                                                   (1, 'Laptop', 'A high-performance laptop', 'HP', 999.99, 'Electronics', '2024-01-01', TRUE, 10),
+                                                                                                   (2, 'Smartphone', 'Latest model smartphone', 'iPhone', 699.99, 'Electronics', '2024-02-01', TRUE, 15),
+                                                                                                   (3, 'Headphones', 'Noise-cancelling headphones', 'Noise', 199.99, 'Accessories', '2024-03-01', TRUE, 20),
+                                                                                                   (4, 'Desk Chair', 'Ergonomic office chair', 'Supreme', 149.99, 'Furniture', '2024-04-01', TRUE, 5),
+                                                                                                   (5, 'Coffee Maker', 'Automatic coffee maker', 'Philips', 89.99, 'Appliances', '2024-05-01', TRUE, 8);
